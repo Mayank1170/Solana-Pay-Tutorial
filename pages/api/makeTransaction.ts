@@ -8,7 +8,7 @@ export type MakeTransactionInputData = {
     account: string,
 }
 
-export type MakeTransactionOutputData = {
+export type MakeTransactionOutputData ={
     transaction: string,
     message: string,
 }
